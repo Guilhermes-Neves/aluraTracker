@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Aug 09 15:54:39 BRT 2021","Mon Aug 09 15:54:39 BRT 2021","717","","Página Inicial","","","","Validar titulo da página",""
+"passed","Mon Aug 09 15:54:44 BRT 2021","Mon Aug 09 15:54:44 BRT 2021","153","","Página Inicial","","","","Validar mensagem inicial",""
+"passed","Mon Aug 09 15:54:41 BRT 2021","Mon Aug 09 15:54:41 BRT 2021","215","","Página Inicial","","","","Validar input descrição tarefa",""
+"passed","Mon Aug 09 15:54:43 BRT 2021","Mon Aug 09 15:54:43 BRT 2021","135","","Página Inicial","","","","Validar botão play",""
+"passed","Mon Aug 09 15:54:42 BRT 2021","Mon Aug 09 15:54:42 BRT 2021","170","","Página Inicial","","","","Validar tempo inicial",""
+"passed","Mon Aug 09 15:54:40 BRT 2021","Mon Aug 09 15:54:40 BRT 2021","365","","Página Inicial","","","","Validar botão de alterar estilo",""
+"passed","Mon Aug 09 15:54:43 BRT 2021","Mon Aug 09 15:54:43 BRT 2021","145","","Página Inicial","","","","Validar botão stop",""

@@ -1,0 +1,21 @@
+{
+  "name": "projetocypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open": "cypress open",
+    "cypressRun": "cypress run --config video=false --env allure=true",
+    "allureGenerate": "allure generate allure-results --clean",
+    "allureOpen": "allure open allure-report",
+    "test": "npx npm-run-all cypressRun allureGenerate"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@shelex/cypress-allure-plugin": "^2.9.0",
+    "cypress": "^8.2.0",
+    "cypress-xpath": "^1.6.2"
+  }
+}

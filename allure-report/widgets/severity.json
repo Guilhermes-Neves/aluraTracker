@@ -1,0 +1,71 @@
+[ {
+  "uid" : "fb7f2dba0591b448",
+  "name" : "Validar titulo da página",
+  "time" : {
+    "start" : 1628535279088,
+    "stop" : 1628535279805,
+    "duration" : 717
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "738e4bda1b9b1abb",
+  "name" : "Validar tempo inicial",
+  "time" : {
+    "start" : 1628535282402,
+    "stop" : 1628535282572,
+    "duration" : 170
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd6ae128f260c857",
+  "name" : "Validar botão de alterar estilo",
+  "time" : {
+    "start" : 1628535280513,
+    "stop" : 1628535280878,
+    "duration" : 365
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7cc40043d76258b",
+  "name" : "Validar botão play",
+  "time" : {
+    "start" : 1628535283107,
+    "stop" : 1628535283242,
+    "duration" : 135
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d0022eba7f4cf64",
+  "name" : "Validar mensagem inicial",
+  "time" : {
+    "start" : 1628535284431,
+    "stop" : 1628535284584,
+    "duration" : 153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ee4a07115eeb5de",
+  "name" : "Validar input descrição tarefa",
+  "time" : {
+    "start" : 1628535281541,
+    "stop" : 1628535281756,
+    "duration" : 215
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e93a4aed7f493c6a",
+  "name" : "Validar botão stop",
+  "time" : {
+    "start" : 1628535283757,
+    "stop" : 1628535283902,
+    "duration" : 145
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
