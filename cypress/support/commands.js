@@ -27,5 +27,5 @@
 import loc from './locators'
 
 Cypress.Commands.add('visitarPaginaInicial', () => {
-    cy.visit('https://tracker-git-main-vinny-neves.vercel.app')
+    cy.visit('http://localhost:8080')
 })
